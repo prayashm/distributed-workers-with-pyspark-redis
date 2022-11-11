@@ -21,7 +21,7 @@ marshmallow==3.12.1
 parse==1.19.0
 promise==2.3
 py4j==0.10.7
-pyspark==2.4.1
+pyspark==3.2.2
 python-multipart==0.0.5
 pyyaml==5.4.1
 redis==3.2.1
